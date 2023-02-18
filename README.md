@@ -15,7 +15,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfEastGate&theme=dark&layout=compact">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfEastGate&theme=dark&layout=compact">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OutOfEastGate&show_icons=true&hide_border=true" />
 
