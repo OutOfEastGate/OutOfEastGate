@@ -7,6 +7,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+
 ![status](https://github-readme-stats.vercel.app/api?username=OutOfEastGate&show_icons=true&theme=dark&count_private=true)
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfEastGate&theme=dark&layout=compact)
