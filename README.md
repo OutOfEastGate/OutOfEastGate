@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ### Hi👋 
 
 <img align="right" alt="img" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" width="50%" height="auto" />
