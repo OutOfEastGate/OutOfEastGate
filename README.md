@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![status](https://github-readme-stats.vercel.app/api?username=OutOfEastGate&show_icons=true&theme=dark&count_private=true)
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&theme=dark&layout=compact)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfEastGate&theme=dark&layout=compact)
 
 
