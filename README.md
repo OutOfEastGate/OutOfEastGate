@@ -1,6 +1,6 @@
 ### Hi👋 
 - 😄 I'm a student at NEU
-- 🌱 I’m currently learning <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><img width="10%" src="[https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)">
+- 🌱 I’m currently learning <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
 
 ![status](https://github-readme-stats.vercel.app/api?username=OutOfEastGate&show_icons=true&theme=dark&count_private=true)
 
