@@ -24,4 +24,4 @@
 
 ### Project
 - [casdoor: UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform based on OAuth 2.0, OIDC, SAML and CAS.](https://github.com/casdoor/casdoor)
-- [jcasbin: https://github.com/casbin/jcasbin](A powerful and efficient open-source access control library for Java projects. It provides support for enforcing authorization based on various access control models.)
+- [jcasbin: A powerful and efficient open-source access control library for Java projects.](https://github.com/casbin/jcasbin)
