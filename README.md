@@ -1,6 +1,6 @@
 ### Hi👋 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" width="50%" height="auto" />
 
 - 😄 I'm a student at NEU
 - 🌱 I’m currently learning 
