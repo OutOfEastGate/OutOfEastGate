@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 <!--
 **OutOfEastGate/OutOfEastGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![status](https://github-readme-stats.vercel.app/api?username=OutOfEastGate&show_icons=true&theme=dark&count_private=true)
+
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&theme=dark&layout=compact)
+
 
